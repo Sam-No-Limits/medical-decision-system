@@ -1,0 +1,8 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+cryptography
+scikit-fuzzy
+networkx
